@@ -1,0 +1,64 @@
+background-image {
+    opacity: 0.7;
+}
+
+html, body {
+    min-height: 100%;
+}
+
+h1 {
+    font-family: "Helvetica", sans-serif;
+    font-size: 80px;
+    text-align: center;
+    color: #fff;
+    text-shadow: 4px 4px black;
+    /* background-color: rgba(rgb(255, 255, 255, 0.7)); */
+}
+
+h2 {
+    font-family: "Helvetica", sans-serif;
+    font-size: 50px;
+    text-align: left;
+    color: #fff;
+    text-shadow: 4px 4px black;
+    margin-left: 35px;
+}
+
+body {
+    background-image: url(Imagens/cartas.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-shadow: 1px 1px black;
+}
+
+#intro {
+    font-family: Helvetica, sans-serif;
+    text-align: justify;
+    color: #fff;
+    font-size: 20px;
+    margin: 35px 35px;
+}
+
+p {
+    font-family: "Helvetica", sans-serif;
+    text-align: justify;
+    color: #fff;
+    margin-left: 35px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    text-align: center;
+}
+
+td, th {
+    border: 5px solid black;
+}
+
+main{
+    background-color: rgba(255,255,255,0.8);
+}
